@@ -31,7 +31,9 @@ body{
     background-color: #f3b6f9;
 }
 
-
+html{
+    scroll-behavior: smooth;
+}
   
 .login.y.carrito {
     float: left;
